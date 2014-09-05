@@ -3,6 +3,7 @@ https://github.com/hardcore/iTerm-colors
 
 I have adapted it to a cygwin-compatible format.
 
+To use: Simply copy the contents of .minttyrc into your cygwin .minttyrc
 
 ![Sample image](https://raw.githubusercontent.com/randonia/hardcore-cygwin/master/color_sample_1.PNG)
 
